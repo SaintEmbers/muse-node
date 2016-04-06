@@ -17,10 +17,11 @@
     "url": "https://github.com/bobi-rakova/mapping-jobs/issues"
   },
   "dependencies": {
-    "logfmt": "~1.1.2",
-    "express": "~4.6.1",
-    "redis": "~0.11.0",
-    "body-parser": "~1.5.0",
-    "url": "~0.10.1"
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "osc": "^2.0.3",
+    "redis": "^2.6.0-1",
+    "serialport": "^2.0.6",
+    "socket.io": "^1.4.5"
   }
 }
